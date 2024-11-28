@@ -26,3 +26,17 @@ Se desea verificar si una palabra enviada por parámetros en la URL es un palín
 palíndroma es aquella cuyas letras están dispuestas de tal manera que resulta la misma leída de 
 izquierda a derecha, que de derecha a izquierda. 
 Verifique con las siguientes palabras y frases: yo hago yoga hoy, orejero, rotomotor, entre otras. 
+
+M6S5
+DRILLING: DESPLIEGUE DE PÁGINA CON BOOTSTRAP
+Para resolver este ejercicio, anteriormente debe haber revisado la lectura y los videos del CUE: Despliegue 
+de páginas con contenido dinámico.
+EJERCICIO:
+• Haciendo uso de Boostrap 5, diseñe el Site Web de Django que contenga el siguiente aspecto de 
+diseño de Navbar:
+![alt text](M6S5-Drilling.png)
+
+ Al presionar el menú inicio, debe mostrar la página index.html:
+ ![alt text](M6S5-Drilling.2.png)
+
+ 
