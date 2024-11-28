@@ -37,6 +37,5 @@ diseño de Navbar:
 ![alt text](M6S5-Drilling.png)
 
  Al presionar el menú inicio, debe mostrar la página index.html:
- ![alt text](M6S5-Drilling.2.png)
+![alt text](M6S5-Drilling.2.png)
 
- 
