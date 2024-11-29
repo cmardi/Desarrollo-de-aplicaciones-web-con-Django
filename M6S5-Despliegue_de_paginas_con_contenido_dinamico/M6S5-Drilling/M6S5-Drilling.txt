@@ -1,0 +1,10 @@
+M6S5
+DRILLING: DESPLIEGUE DE PÁGINA CON BOOTSTRAP
+Para resolver este ejercicio, anteriormente debe haber revisado la lectura y los videos del CUE: Despliegue 
+de páginas con contenido dinámico.
+EJERCICIO:
+• Haciendo uso de Boostrap 5, diseñe el Site Web de Django que contenga el siguiente aspecto de 
+diseño de Navbar:
+img/M6S5-Drilling.png
+ Al presionar el menú inicio, debe mostrar la página index.html:
+M6S5-Drilling.2.png
