@@ -1,0 +1,8 @@
+REBOUND EXERCISE: MANIPULACIÓN EN EL TEMPLATE DE DJANGO
+Para resolver este ejercicio, anteriormente debe haber revisado la lectura y los videos del CUE: Template en 
+Django.
+EJERCICIO:
+Se desea ingresar cierta cantidad de libros, y manipular la plantilla permitiendo:
+1. Listar todos los libros con una valoración mayor a 1500 puntos.
+2. Listar todos los libros con su valoración respectiva.
+Para esto, se deberá diseñar una ruta en http://localhost:8000/listbook/ 
